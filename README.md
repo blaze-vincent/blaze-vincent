@@ -3,6 +3,7 @@
 <ul>
   <li>i make websites with nextjs</li>
   <li>i use mongodb for databases</li>
+  <li>i am a recently converted firm believer in tailwindcss</li>
   <li>i use figma to design my websites</li>
 </ul>
 <h2>some things about me</h2>
