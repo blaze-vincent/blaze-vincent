@@ -8,6 +8,7 @@
 </ul>
 <h2>some things about me</h2>
 <ul>
+  <li>i am a full-time college student</li>
   <li>i'm working on making better use of semantic html tags</li>
   <li>i'd like to make some three.js games when i catch a break from assigned websites</li>
   <li>i don't own blazevincent.com but it will be mine i swear</li>
