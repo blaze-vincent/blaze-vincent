@@ -12,6 +12,5 @@
   <li>i'm working on making better use of semantic html tags</li>
   <li>i'd like to make some three.js games when i catch a break from assigned websites</li>
   <li>i don't own blazevincent.com but it will be mine i swear</li>
-  <li><del>i am taking 3 summer classes (academic suicide) so i won't be very active for a while </del> i am finally freeeeeeee</li>
 </ul>
 <p>you can email me at <a href='mailto:blaze.vincent@hotmail.com'>blaze.vincent@hotmail.com</a></p>
