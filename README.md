@@ -8,7 +8,7 @@
 </ul>
 <h2>some things about me</h2>
 <ul>
-  <li>i am a full-time college student</li>
+  <li>recently, i have been reading Core Java Volume 1</li>
   <li>i don't own blazevincent.com but it will be mine i swear</li>
 </ul>
 <p>you can email me at <a href='mailto:blaze.vincent@hotmail.com'>blaze.vincent@hotmail.com</a></p>
