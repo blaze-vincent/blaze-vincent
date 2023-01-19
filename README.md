@@ -8,7 +8,7 @@
 </ul>
 <h2>some things about me</h2>
 <ul>
-  <li>recently, i have been reading Core Java Volume 1</li>.
+  <li>recently, i have been reading Core Java Volume 1</li>
   <li><b>update!!!! i am a hired java dev now!!!!!!</b></li>
   <li>i don't own blazevincent.com but it will be mine i swear</li>
 </ul>
