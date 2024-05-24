@@ -1,15 +1,17 @@
 <h1>hi, i'm @blaze-vincent</h1>
-<h2>some things about my work</h2>
+<h2>things i use</h2>
 <ul>
-  <li>i make websites with nextjs</li>
-  <li>i usually use mongodb for databases, but i am transitioning to sql</li>
-  <li>i am a tailwindcss enjoyer</li>
-  <li>i use figma to design my websites</li>
+  <li>javascript</li>
+  <li>mongodb</li>
+  <li>java</li>
+  <li>rules engines</li>
 </ul>
-<h2>some things about me</h2>
+<h2>things about me</h2>
 <ul>
-  <li>recently, i have been reading Core Java Volume 1</li>
-  <li><b>update!!!! i am a hired java dev now!!!!!!</b></li>
-  <li>i don't own blazevincent.com but it will be mine i swear</li>
+  <li>i love javascript</li>
+  <li>i hate mongodb</li>
+  <li>i hate java</li>
+  <li>i hate rules engines</li>
 </ul>
+<p>i am currently employed as a java developer specializing in rules development (since 05/2023)</p>
 <p>you can email me at <a href='mailto:blaze.vincent@hotmail.com'>blaze.vincent@hotmail.com</a></p>
