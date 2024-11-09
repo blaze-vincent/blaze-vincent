@@ -53,6 +53,7 @@
   <li>i kinda like rules development even though the concept of a rules engine is flawed</li>
 </ul>
 <h2>Number 1™ Team</h2>
+<img src="n1tlogo.png" height=250 width=250>
 <p>i am working on roblox projects with my friend tyler under the group name Number 1™ Team</p>
 <p>you can visit the group page on roblox <a href="https://www.roblox.com/groups/35114443/Number-One-Team#!/about">here</a></p>
 <p>i also intend to work on the animation app under the same group name, possibly with more developers</p>
