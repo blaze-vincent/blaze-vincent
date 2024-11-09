@@ -1,4 +1,10 @@
 <h1>hi, i'm @blaze-vincent</h1>
+<div style="display: flex; flex-direction: row;">
+  <img src="doodle.png" height=200 width=200>
+
+</div>
+
+<small>asdf</small>
 <h2>things i use</h2>
 <ul>
   <li>javascript
