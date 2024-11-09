@@ -1,11 +1,12 @@
 <h1>hi, i'm @blaze-vincent</h1>
+<h2>some doodles i made</h2>
 <div style="display: flex; flex-direction: row;">
-  <img src="doodle.png" height=200 width=200>
-
+  <img src="doodle1.jpg" height=200 width=200>
+  <img src="doodle2.jpg" height=200 width=200>
+  <img src="doodle3.jpg" height=200 width=200>
+  <img src="doodle4.jpg" height=200 width=200>
 </div>
-
-<small>asdf</small>
-<h2>things i use</h2>
+<h2>some things i use</h2>
 <ul>
   <li>javascript
     <ul>
@@ -51,12 +52,13 @@
     </ul>
   </li>
 </ul>
-<h2>things about me</h2>
+<h2>some things about me</h2>
 <ul>
   <li>i love javascript</li>
   <li>i hate non-relational data</li>
   <li>i love java</li>
   <li>i kinda like rules development even though the concept of a rules engine is flawed</li>
+  <li>i love figuring things out</li>
 </ul>
 <h2>Number 1™ Team</h2>
 <img src="n1tlogo.png" height=250 width=250>
