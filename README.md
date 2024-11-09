@@ -17,10 +17,16 @@
   <li>tailwind css</li>
   <li>mongodb
     <ul>
-      <li>forensic aggregations for delineating tricky bugs</li>
+      <li>i write aggregations very similar to how i scrape data from webpages</li>
     </ul>
   </li>
-  <li>java</li>
+  <li>java
+    <ul>
+      <li>reflection api</li>
+      <li>spring / boot</li>
+      <li>hibernate / jpa</li>
+    </ul>
+  </li>
   <li>rules engines
     <ul>
       <li>fico blaze advisor
