@@ -48,7 +48,7 @@
   <li>grpc / protobuf</li>
   <li>flutter
     <ul>
-      <li>wip - untitled animation app (coming soon to github)</li>
+      <li>wip - <a href="https://github.com/blaze-vincent/flipbook">flipbook animation app</a></li>
     </ul>
   </li>
 </ul>
@@ -58,7 +58,6 @@
   <li>i hate non-relational data</li>
   <li>i love java</li>
   <li>i kinda like rules development even though the concept of a rules engine is flawed</li>
-  <li>i love figuring things out</li>
 </ul>
 <h2>Number 1™ Team</h2>
 <img src="n1tlogo.png" height=250 width=250>
